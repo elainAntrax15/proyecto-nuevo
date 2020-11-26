@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProyectoRecetasModelStoreContainer" CdmEntityContainer="ProyectoRecetasEntities1">
+    <EntitySetMapping Name="Receta">
+      <EntityTypeMapping TypeName="ProyectoRecetasModel.Receta">
+        <MappingFragment StoreEntitySet="Receta">
+          <ScalarProperty Name="Num_de_receta" ColumnName="Num_de_receta" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Ingredientes" ColumnName="Ingredientes" />
+          <ScalarProperty Name="Procedimiento" ColumnName="Procedimiento" />
+          <ScalarProperty Name="Personas" ColumnName="Personas" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Foto_Comida" ColumnName="Foto_Comida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

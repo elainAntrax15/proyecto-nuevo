@@ -1,0 +1,6 @@
+C:\Users\xoolc\Documents\4 CUATRIMESTRE\Proyecto Integrador\MVC\RecetasMvc\RecetaSpawn.Domain\obj\Debug\RecetaSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\xoolc\Documents\4 CUATRIMESTRE\Proyecto Integrador\MVC\RecetasMvc\RecetaSpawn.Domain\obj\Debug\RecetaSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xoolc\Documents\4 CUATRIMESTRE\Proyecto Integrador\MVC\RecetasMvc\RecetaSpawn.Domain\bin\Debug\RecetaSpawn.Domain.dll
+C:\Users\xoolc\Documents\4 CUATRIMESTRE\Proyecto Integrador\MVC\RecetasMvc\RecetaSpawn.Domain\bin\Debug\RecetaSpawn.Domain.pdb
+C:\Users\xoolc\Documents\4 CUATRIMESTRE\Proyecto Integrador\MVC\RecetasMvc\RecetaSpawn.Domain\obj\Debug\RecetaSpawn.Domain.dll
+C:\Users\xoolc\Documents\4 CUATRIMESTRE\Proyecto Integrador\MVC\RecetasMvc\RecetaSpawn.Domain\obj\Debug\RecetaSpawn.Domain.pdb

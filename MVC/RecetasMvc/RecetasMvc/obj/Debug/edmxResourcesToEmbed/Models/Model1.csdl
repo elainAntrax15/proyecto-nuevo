@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyectoRecetasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Receta">
+    <Key>
+      <PropertyRef Name="Num_de_receta" />
+    </Key>
+    <Property Name="Num_de_receta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Titulo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Ingredientes" Type="String" MaxLength="8000" FixedLength="false" Unicode="false" />
+    <Property Name="Procedimiento" Type="String" MaxLength="8000" FixedLength="false" Unicode="false" />
+    <Property Name="Personas" Type="Int32" />
+    <Property Name="Autor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Foto_Comida" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityContainer Name="ProyectoRecetasEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Receta" EntityType="Self.Receta" />
+  </EntityContainer>
+</Schema>
